@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-deploy",
+  "version": "0.0.1",
+  "description": "Cordova / Phonegap plugin for store deploying",
+  "cordova": {
+    "id": "cordova-plugin-deploy",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zgarena/cordova-deploy"
+  },
+  "keywords": [
+    "cordova",
+    "deploy",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Zohaib Khan",
+  "license": "MIT",
+  "homepage": "https://github.com/zgarena/cordova-deploy"
+}
